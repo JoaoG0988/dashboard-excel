@@ -28,7 +28,7 @@ O dashboard foi construído para responder aos seguintes pontos:
   - Design e Layout customizado
 
 ## 🚀 Como Reproduzir este Projeto
-1. Faça o download do arquivo `dashboard_vendas_xbox.xlsx` deste repositório.
+1. Faça o download do arquivo `dashboard.xlsx` deste repositório.
 2. Certifique-se de ter o Microsoft Excel instalado (versão 2016 ou superior).
 3. Ao abrir, caso os dados não carreguem, vá até a guia **Dados** e clique em **Atualizar Tudo**.
 4. Utilize os filtros laterais (Segmentadores) para navegar entre os planos e tipos de assinatura.
